@@ -1,0 +1,6 @@
+name,age,gender,salary
+John,29.0,male,60000.0
+nan,35.0,female,72000.0
+Alice,30.25,,80000.0
+Mark,27.0,m,55000.0
+David,30.0,male,66750.0
