@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-  <a href="www.linkedin.com/in/suyash-kulkarni-yes777" target="_blank">
+  <a href="https://www.linkedin.com/in/suyash-kulkarni-yes777/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
   <a href="https://huggingface.co/HugFace4Suyash" target="_blank">
